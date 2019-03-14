@@ -1,9 +1,136 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+  {
+  "employee": [
+    {
+      "firstName": "Nick",
+      "lastName": "Fury",
+      "id": "avn001",
+      "role": "CEO",
+      "location": "India",
+      "image": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+    },
+    {
+      "firstName": "Tony",
+      "lastName": "Stark",
+      "id": "avn011",
+      "role": "CTO",
+      "location": "India",
+      "image": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+    },
+    {
+      "firstName": "Steve",
+      "lastName": "Rodgers",
+      "id": "avn012",
+      "role": "Senior Manager",
+      "location": "India",
+      "image": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+    },
+    {
+      "firstName": "Bruce",
+      "lastName": "Banner",
+      "id": "avn013",
+      "role": "Research Engineer",
+      "location": "India",
+      "image": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+    },
+    {
+      "firstName": "Clint",
+      "lastName": "Barton",
+      "id": "avn015",
+      "role": "Software Engineer",
+      "location": "India",
+      "image": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+    },
+    {
+      "firstName": "Clint",
+      "lastName": "Barton",
+      "id": "avn016",
+      "role": "Software Engineer",
+      "location": "India",
+      "image": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+    },
+    {
+      "firstName": "Clint",
+      "lastName": "Barton",
+      "id": "avn017",
+      "role": "Software Engineer",
+      "location": "India",
+      "image": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+    },
+    {
+      "firstName": "Clint",
+      "lastName": "Barton",
+      "id": "avn018",
+      "role": "Software Engineer",
+      "location": "India",
+      "image": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+    },
+    {
+      "firstName": "Clint",
+      "lastName": "Barton",
+      "id": "avn019",
+      "role": "Software Engineer",
+      "location": "India",
+      "image": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+    },
+    {
+      "firstName": "Clint",
+      "lastName": "Barton",
+      "id": "avn020",
+      "role": "Software Engineer",
+      "location": "India",
+      "image": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+    },
+    {
+      "firstName": "Clint",
+      "lastName": "Barton",
+      "id": "avn021",
+      "role": "Software Engineer",
+      "location": "India",
+      "image": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+    },
+    {
+      "firstName": "Clint",
+      "lastName": "Barton",
+      "id": "avn022",
+      "role": "Software Engineer",
+      "location": "India",
+      "image": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+    },
+    {
+      "firstName": "Clint",
+      "lastName": "Barton",
+      "id": "avn023",
+      "role": "Software Engineer",
+      "location": "India",
+      "image": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+    },
+    {
+      "firstName": "Clint",
+      "lastName": "Barton",
+      "id": "avn024",
+      "role": "Software Engineer",
+      "location": "India",
+      "image": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+    },
+    {
+      "firstName": "Clint",
+      "lastName": "Barton",
+      "id": "avn025",
+      "role": "Software Engineer",
+      "location": "India",
+      "image": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+    },
+    {
+      "firstName": "Clint",
+      "lastName": "Barton",
+      "id": "avn026",
+      "role": "Software Engineer",
+      "location": "India",
+      "image": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+    }
+  ]
+},
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
